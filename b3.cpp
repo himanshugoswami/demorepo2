@@ -2,5 +2,5 @@
 
 std::string addStr(std::string a, std::string b)
 {
-    return a;
+    return a.append(b);
 }
